@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: home
 nav_order: 1
 ---
 # CS1112 F25 
