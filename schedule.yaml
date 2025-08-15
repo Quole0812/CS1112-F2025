@@ -1,0 +1,238 @@
+- topic: Welcome, Review
+  date: 1/18/2024 
+  lectures:
+      - time: PDF
+        link: lectures/cs3100-L1-intro.pdf
+- topic: Asymptotics, Review proofs
+  date: 1/23/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L2-review.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L2-review.pdf
+  readings:
+    - topic: CLRS chapters 2-3 
+  notes: PS0 due (Wed)
+- topic: Graphs
+  type: header
+- topic: Graphs, BFS
+  date: 1/25/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L3-graphs-BFS.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L3-graphs-BFS.pdf
+  readings:
+    - topic: CLRS chapter 20-1, 20-2 
+- topic: DFS 
+  date: 1/30/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L4-DFS.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L4-DFS.pdf
+  readings:
+    - topic: CLRS chapter 20-3, 20-4, 20-5 
+  notes: PS1 due (Wed)
+- topic: Dijkstra's Algorithm
+  date: 2/1/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L5-Dijkstras-SP.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L5-Dijkstras-SP.pdf
+  readings:
+    - topic: CLRS chapters 22-3 
+- topic: Topological Sorting, Connected Components
+  date: 2/6/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L6-TopSort-SCC.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L6-TopSort-SCC.pdf
+  readings:
+    - topic: CLRS chapter 20-3, 20-4, 20-5 
+  notes: PS2 due (Wed)
+- topic: Divide and Conquer
+  type: header
+- topic: Divide and Conquer, Recurrences
+  date: 2/8/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L7-DC.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L7-DC.pdf
+  readings:
+    - topic: CLRS 4 (intro) and 4.4 
+  notes: PA1 due (Fri)
+- topic: Recurrences, Applications
+  date: 2/13/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L8-DC-master-thm.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L8-DC-master-thm.pdf
+  readings:
+    - topic: CLRS 4.1-4.2 
+  notes: PS3 due (Wed)
+- topic: Master Theorem, Closest Pair of Points
+  date: 2/15/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L9-CPP.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L9-CPP.pdf
+  readings:
+    - topic: CLRS 4.5
+- topic: CPP, Matrix Multiplication
+  date: 2/20/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L10-CPP-Matrix-Mult.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L10-CPP-Matrix-Mult.pdf
+  readings:
+    - topic: CPP from CLRS 3rd edn. 
+      link: lectures/clrs3rd-CPP.pdf
+  notes: PS4 due (Wed)
+- topic: Quickselect, Median of Medians, MSCS
+  date: 2/22/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L11-Median-Medians.pdf
+      - time: Hott
+        link: lectures/Hott/cs3100-L11-Median-Medians.pdf
+  readings:
+    - topic: CLRS 4.1-4.2 
+- topic: Greedy Algorithms 
+  type: header
+- topic: Greedy Algorithms, Change Making
+  date: 2/27/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L12-Greedy-Coins-Interval.pdf
+      - time: Hott 
+        link: lectures/Hott/cs3100-L12-Greedy-Coins-Interval.pdf
+  readings:
+    - topic: CLRS 15.1-2
+  notes: drop deadline 2/28
+- topic: Quiz 1 (Graphs), Quiz 2 (D&C)
+  link: quizzes.html
+  date: 2/29/2024 
+  type: exam
+  notes: PA2 due (Fri)
+- topic: Spring Break 
+  date: 3/2-10/2024
+  type: holiday 
+- topic: Minimum Spanning Trees
+  date: 3/12/2024
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L13-MST_Algorithms.pdf
+      - time: Hott 
+        link: lectures/Hott/cs3100-L13-MST_Algorithms.pdf
+  readings:
+    - topic: CLRS 21
+  notes: PS5 due (Wed)<br>withdraw deadline 3/13
+- topic: Huffman Coding
+  lectures:
+      - time: Blank
+        link: lectures/cs3100-L14-Huffman-Coding.pdf
+      - time: Hott 
+        link: lectures/Hott/cs3100-L14-Huffman-Coding.pdf
+  date: 3/14/2024
+- topic: Huffman Coding, Caching Greedy Algorithm 
+  date: 3/19/2024
+  lectures:
+    - time: Blank
+      link: lectures/Day15.pdf
+  notes: PS6 due (Wed)
+- topic: Dynamic Programming 
+  type: header
+- topic: Dynamic Programming, Log Cutting
+  lectures:
+    - time: Blank
+      link: lectures/Day16.pdf
+  date: 3/21/2024
+  notes: PA3 due (Fri)
+- topic: Matrix Chaining
+  readings:
+    - topic: CLRS 14
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L17-Matrix-Chain-Seams.pdf
+    - time: Hott 
+      link: lectures/Hott/cs3100-L17-Matrix-Chain-Seams.pdf
+  date: 3/26/2024
+  notes: PS7 due (Wed)
+- topic: Seam Carving, Longest Common Subsequence
+  date: 3/28/2024
+  readings:
+    - topic: CLRS 14
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L18-Seams-LCS.pdf
+    - time: Hott 
+      link: lectures/Hott/cs3100-L18-Seams-LCS.pdf
+- topic: Longest Common Subsequence, Gerrymandering
+  date: 4/2/2024
+  readings:
+    - topic: CLRS 14
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L19-LCS.pdf
+    - time: Hott 
+      link: lectures/Hott/cs3100-L19-LCS.pdf
+  notes: PS8 due (Wed)
+- topic: Network Flow 
+  type: header
+- topic: Max Flow, Min Cut
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L20-Max-Flow.pdf
+  readings:
+    - topic: CLRS 24
+  date: 4/4/2024
+- topic: Reductions
+  readings:
+    - topic: CLRS 24
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L21-Reductions-Bipartite.pdf
+  date: 4/9/2024
+- topic: Quiz 3 (Greedy), Quiz 4 (DP)
+  date: 4/11/2024
+  type: exam
+  notes: PA4 due (Fri)
+- topic: Reductions and Lower Bound Proofs 
+  readings:
+    - topic: CLRS 24
+  date: 4/16/2024
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L22-Reductions-Lower-Bounds.pdf
+  notes: PS9 due (Wed)
+- topic: Hardness, Completeness
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L23-IS-VC-NP.pdf
+  date: 4/18/2024
+- topic: Machine Learning 
+  type: header
+- topic: Machine Learning 1
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L24-ML-1-final.pdf
+  date: 4/23/2024 
+  notes: PS10 due (Wed)
+- topic: Machine Learning 2
+  date: 4/25/2024
+  lectures:
+    - time: Blank
+      link: lectures/cs3100-L25-ML-2-final.pdf
+- topic: ML, Ethics, Finale
+  date: 4/30/2024
+  notes: PA5 due (Tue)
+- topic: Quiz 5 (NF, ML), Retakes (7-10pm)
+  type: exam
+  date: 5/2/2024
