@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CS 1112 F25
+description: Website for the CS 1112 students
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Quole0812.github.io/CS1112-F2025
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/Quole0812/CS1112-F2025
