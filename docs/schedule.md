@@ -95,7 +95,7 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
         {% endfor %}
         {% endif %}
 
-        
+
         {% if (day.lectures or day.readings) and day.activities %}
         <br>
         {% endif %}
@@ -119,3 +119,15 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
     </tr>
 {% endfor %}
 </tbody></table>
+
+
+<style>
+td.mtg,
+td.lab.mtg,
+td.exam.mtg,
+td.holiday.mtg,
+td.header.mtg {
+  font-size: 0.75rem;
+  text-align: left;
+}
+</style>
