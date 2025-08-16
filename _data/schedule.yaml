@@ -1,4 +1,4 @@
-- topic: Introduction to Course
+- topic: Algorithmic Instructions \n Why Python?
   date: 8/27/2025
   lectures: 
       - time: 12:30pm
@@ -6,3 +6,55 @@
   readings:
       - topic: testing
   notes: homework due soon test
+
+- topic: Basics & Installing PyCharm
+  date: 8/29/2025
+
+- topic: Exploring PyCharm IDE 
+  date: 9/1/2025
+
+- topic: Rest of Basics (review)
+  date: 9/3/2025
+
+- topic: Pseudocode
+  date: 9/5/2025
+
+- topic: Introduction to Turtles & Imports
+  date: 9/8/2025
+
+- topic: Turtles
+  date: 9/10/2025
+
+- topic: Turtle Racing
+  date: 9/12/2025
+
+- topic: Booleans
+  date: 9/15/2025
+
+- topic: Booleans & Conditionals
+  date: 9/17/2025
+
+- topic: Mutability
+  date: 9/19/2025
+
+- topic: Introduction to Functions
+  date: 9/22/2025
+
+- topic: More Functions
+  date: 9/26/2025
+
+- topic: Loops
+  date: 9/29/2025
+
+- topic: More Loops
+  date: 10/1/2025
+
+- topic: Style & Debugging
+  date: 10/3/2025
+
+- topic: Exam 1 Review
+  date: 10/6/2025
+
+- topic: Exam 1
+  date: 10/8/2025
+  type: exam
