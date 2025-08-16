@@ -13,7 +13,7 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
     <th>Mtg</th>
     <th>Date</th>
     <th>Topic</th>
-    <th>Notes</th>
+    <th>Labs</th>
     </tr>
     </thead>
     <tbody><!--  {% increment lab %} {% increment mtg %} -->
@@ -85,6 +85,17 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
         {% endif %}
         {% endfor %}
         {% endif %}
+
+        {% if day.videos %}
+        <br>
+        Videos:
+        {% for vid in day.videos %}
+        {% unless forloop.first %} - {% endunless %}
+        <a href="{{vid.link}}">{{vid.name}}</a>
+        {% endfor %}
+        {% endif %}
+
+        
         {% if (day.lectures or day.readings) and day.activities %}
         <br>
         {% endif %}
