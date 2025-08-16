@@ -2,7 +2,7 @@
   date: 8/27/2025
   lectures: 
       - time: 12:30pm
-        link: lectures/CS 1112 - Day 1 - Welcome - Basit.pdf
+        link: ../lectures/day1.pdf
   readings:
       - topic: testing
   notes: homework due soon test
