@@ -1,4 +1,4 @@
-- topic: Algorithmic Instructions \n Why Python?
+- topic: Algorithmic Instructions, Why Python?
   date: 8/27/2025
   lectures: 
       - time: 12:30pm
@@ -58,3 +58,94 @@
 - topic: Exam 1
   date: 10/8/2025
   type: exam
+
+- topic: Strings
+  date: 10/10/2025
+
+- topic: Fall reading day
+  date: 10/13/2025
+  type: holiday
+
+- topic: More Strings
+  date: 10/15/2025
+
+- topic: Classes
+  date: 10/17/2025
+
+- topic: Lists
+  date: 10/20/2025
+
+- topic: Intro to Tuples
+  date: 10/22/2025
+
+- topic: More Tuples
+  date: 10/24/2025
+
+- topic: Intro to Dictionaries
+  date: 10/27/2025
+
+- topic: More Dictionaries
+  date: 10/29/2025
+
+- topic: Nested Data Structures
+  date: 10/31/2025
+
+- topic: Intro to Regular Expressions (regEx)
+  date: 11/3/2025
+
+- topic: regEx
+  date: 11/5/2025
+
+- topic: regEx Activity Day
+  date: 11/7/2025
+
+- topic: Exam 2 Review
+  date: 11/10/2025
+
+- topic: Exam 2
+  date: 11/12/2025
+  type: exam
+
+- topic: File Reading
+  date: 11/14/2025
+
+- topic: File Reading w/ regEx
+  date: 11/17/2025
+
+- topic: File Writing
+  date: 11/19/2025
+
+- topic: Review on File Reading & Writing
+  date: 11/21/2025
+
+- topic: Work on Final Project
+  date: 11/24/2025
+
+- topic: Thanksgiving Break
+  date: 11/26/2025
+  type: holiday
+
+- topic: Thanksgiving Break
+  date: 11/28/2025
+  type: holiday
+
+- topic: Work on Final Project
+  date: 12/1/2025
+
+- topic: Work on Final Project
+  date: 12/3/2025
+
+- topic: Final Project Presentation
+  date: 12/4/2025
+
+- topic: Final Project Presentation
+  date: 12/5/2025
+
+  - topic: Final Project Presentation
+  date: 12/6/2025
+
+  - topic: Final Project Presentation
+  date: 12/7/2025
+
+  - topic: Final Project Presentation
+  date: 12/8/2025
