@@ -25,7 +25,7 @@ Important notes:
 
 ### — Course Information
 
-Meeting dates: Jan 13, 2025 to April 29, 2025
+Meeting dates: August 27, 2025 to December 8, 2025
 
 Lecture:
 
