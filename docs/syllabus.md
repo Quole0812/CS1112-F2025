@@ -153,6 +153,15 @@ The assessment and their descriptions are as follows:
 
     - You will be asked to give a small presentation (in a small-scale setting) directly to your professor or to one of the TAs describing your approach to solving the project and walking us through your code. Details of the project and presentations will be provided in the formal project description document which will be put on Canvas.
 
+
+### — Research
+
+Your class work and related data might be used for research purposes. For example, we may use
+anonymized student assignments to design algorithms or build tools to help programmers; use
+data collected from course support tools to better understand and seek to improve student
+engagement and learning; etc. Any student who wishes to opt out can contact their professor to
+do so after final grades have been issued. This has no impact on your grade in any manner.
+
 ### — Final Grades
 
 Final grades will be calculated using the following percentage breakdown:
