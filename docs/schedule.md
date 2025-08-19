@@ -13,7 +13,7 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
     <th>Mtg</th>
     <th>Date</th>
     <th>Topic</th>
-    <th>Labs</th>
+    <th>Notes</th>
     </tr>
     </thead>
     <tbody><!--  {% increment lab %} {% increment mtg %} -->
