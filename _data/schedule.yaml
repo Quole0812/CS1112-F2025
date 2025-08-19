@@ -1,7 +1,7 @@
 - topic: Algorithmic Instructions, Why Python?
   date: 8/27/2025
   lectures: 
-      - time: 12:30pm
+      - time: PDF
         link: ../lectures/day1.pdf
   readings:
       - topic: testing
@@ -9,51 +9,105 @@
 
 - topic: Basics & Installing PyCharm
   date: 8/29/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day2.pdf
 
 - topic: Exploring PyCharm IDE 
   date: 9/1/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day3.pdf
 
 - topic: Rest of Basics (review)
   date: 9/3/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day4.pdf
 
 - topic: Pseudocode
   date: 9/5/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day5.pdf
 
 - topic: Introduction to Turtles & Imports
   date: 9/8/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day6.pdf
 
 - topic: Turtles
   date: 9/10/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day7.pdf
 
 - topic: Turtle Racing
   date: 9/12/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day8.pdf
 
 - topic: Booleans
   date: 9/15/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day9.pdf
 
 - topic: Booleans & Conditionals
   date: 9/17/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day10.pdf
 
 - topic: Mutability
   date: 9/19/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day11.pdf
 
 - topic: Introduction to Functions
   date: 9/22/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day12.pdf
 
 - topic: More Functions
+  date: 9/24/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day13.pdf
+
+- topic: Functions Review
   date: 9/26/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day14.pdf
 
 - topic: Loops
   date: 9/29/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day15.pdf
 
 - topic: More Loops
   date: 10/1/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day16.pdf
 
 - topic: Style & Debugging
   date: 10/3/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day17.pdf
 
 - topic: Exam 1 Review
   date: 10/6/2025
+  lectures: 
+      - time: PDF
+        link: ../lectures/day18.pdf
 
 - topic: Exam 1
   date: 10/8/2025
