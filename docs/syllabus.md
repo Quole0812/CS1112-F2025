@@ -15,7 +15,7 @@ nav_order: 2
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------|
 | Nada Basit (basit@virginia.edu) | ➢ Mondays: 10:30am - 12:00pm<br>➢ Wednesdays: 10:00am - 11:00am<br>➢ Other times: by appointment only (email me!) | In-person, in my office – Rice 405 |
 
-Instructor Office Hours begin on Monday, January 29, 2025.  
+Instructor Office Hours begin on Monday, September 8, 2025.  
 (Email if you wish to meet sooner!)
 
 Important notes:
@@ -52,19 +52,13 @@ Head TAs are each assigned a role and serve as the point-of-contact for this rol
 
 | Head TA Name        | Email               | Head TA Role / Point-of-Contact |
 |---------------------|---------------------|---------------------------------|
-| Herin Seo           | aww5kx@virginia.edu | Course Admin                    |
 | Bonny Koo           | uck8up@virginia.edu | Course Admin                    |
+| Jackson Le          | wnj9tx@virginia.edu | Course Admin                    |
 | Niveen Abdul-Mohsen | bvn9ad@virginia.edu | Quiz and Quiz Grading           |
-| Clara Grimmelbein   | esf3xw@virginia.edu | Homework and Homework Grading   |
 | Julie Fitzhugh      | yzc5ht@virginia.edu | Homework and Homework Grading   |
-| Natalie Nguyen      | gzg8pf@virginia.edu | In-Class “Lab” Activities       |
-| Riley Potter        | cvb8ca@virginia.edu | Office Hours Admin              |
 | Kayla Kim           | rkf9wd@virginia.edu | Office Hours Admin.             |
-| Rob Bundy           | ajh4ep@virginia.edu | Piazza Admin.                   |
 | Jackson Le          | wnj9tx@virginia.edu | Website Admin.                  |
-| Matan Morse         | mtk7rx@virginia.edu | Website Admin.                  |
-| Jackson Le          | wnj9tx@virginia.edu | Homework & Quiz preparation     |
-| Matan Morse         | mtk7rx@virginia.edu | Homework & Quiz preparation     |
+
 
 * Important note: When sending email to Head TAs, always include “CS 1112” somewhere in your email subject header. This will allow the TAs to filter your emails and respond quicker.
 
