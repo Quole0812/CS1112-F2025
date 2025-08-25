@@ -9,7 +9,7 @@ nav-order: 8
 # PA07: Regular Expressions (RegEx)
 **CS 1112 - Intro to Programming**
 
-**Due by: 11:00pm on Wednesday, April 16th, 2025**
+**Due by: 11:00pm on Wednesday, November 21st, 2025**
 
 ## Objective: 
 The objective of this assignment for students is to learn how to work with regular expressions for a practical application. By the end of the assignment, students should be able to:

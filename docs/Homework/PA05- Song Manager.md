@@ -9,7 +9,7 @@ nav-order: 6
 
 **CS 1112 - Intro to Programming**
 
-**Due by: 11:00pm Wednesday, March 26th, 2024**
+**Due by: 11:00pm Wednesday, October 29th, 2024**
 
 [PDF Instructions](../../instruction/PA05__Song_Manager.pdf)
 [Starter Code](../../Starter%20Code%20For%20Homework/song_manager.py)

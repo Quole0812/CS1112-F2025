@@ -6,7 +6,7 @@ nav-order: 4
 ---
 
 # PA03 Functions: Introduction to Python Functions
-**Due by 11:00pm on Wednesday, February 19th, 2025** <br>    
+**Due by 11:00pm on Wednesday, October 10th, 2025** <br>    
 
 ## Objective
 This assignment introduces students to writing functions in Python, including defining functions using the `def` keyword, declaring a function's parameters, returning values from functions, and calling functions within other functions. By the end of this assignment, students should be able to understand how to declare a function, how to use the function parameter(s), how to return a value from that function, and how to call that function, including from within other functions.

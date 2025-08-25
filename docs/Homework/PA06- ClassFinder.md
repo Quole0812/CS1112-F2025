@@ -10,12 +10,10 @@ nav-order: 7
 # PA06: Class Finder
 
 **CS 1112 - Intro to Programming**
-**Due by 11:00pm on Wednesday, April 2nd, 2025** <br>    
+**Due by 11:00pm on Wednesday, November 5th, 2025** <br>    
 
 [PDF Instructions](../../instruction/PA06__Class_Finder.pdf)
 [Starter Code](../../Starter%20Code%20For%20Homework/class_finder.py)
-
-**Due by: 11:00pm on Wednesday, November 7, 2023**
 
 ## Objective: 
 The objective of this assignment for students is to learn how to work with dictionaries and nested data structures for a practical application. By the end of the assignment, students should be able to:
