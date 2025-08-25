@@ -7,7 +7,7 @@ nav_order: 2
 ### — Quote
 "The beginning is always today." - Mary Wollstonecraft
 
-### CS 1112 | Prof. N. Basit | Spring 2025
+### CS 1112 | Prof. N. Basit | Fall 2025
 
 ### — Instructor
 
