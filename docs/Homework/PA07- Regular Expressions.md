@@ -5,9 +5,7 @@ parent: Homework
 nav-order: 8
 ---
 
-
 # PA07: Regular Expressions (RegEx)
-**CS 1112 - Intro to Programming**
 
 **Due by: 11:00pm on Wednesday, November 21st, 2025**
 

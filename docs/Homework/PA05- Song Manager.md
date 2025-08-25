@@ -7,8 +7,6 @@ nav-order: 6
 
 # PA05: Song Manager
 
-**CS 1112 - Intro to Programming**
-
 **Due by: 11:00pm Wednesday, October 29th, 2024**
 
 [PDF Instructions](../../instruction/PA05__Song_Manager.pdf)

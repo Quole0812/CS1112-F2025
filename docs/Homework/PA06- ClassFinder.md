@@ -5,11 +5,8 @@ parent: Homework
 nav-order: 7
 ---
 
-
-
 # PA06: Class Finder
 
-**CS 1112 - Intro to Programming**
 **Due by 11:00pm on Wednesday, November 5th, 2025** <br>    
 
 [PDF Instructions](../../instruction/PA06__Class_Finder.pdf)

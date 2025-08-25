@@ -5,7 +5,7 @@ parent: Homework
 nav-order: 1
 ---
 
-## PA00: Fix It Up!
+# PA00: Fix It Up!
 
 **Due by: 11:00pm on Wednesday, September 10th, 2025**
 

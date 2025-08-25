@@ -6,6 +6,7 @@ nav-order: 4
 ---
 
 # PA03 Functions: Introduction to Python Functions
+
 **Due by 11:00pm on Wednesday, October 10th, 2025** <br>    
 
 ## Objective
