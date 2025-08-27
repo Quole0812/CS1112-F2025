@@ -6,7 +6,7 @@ nav_order: 1
 # CS1112 F25 
 ## Introduction to Programming
 
-This is a first course in programming, software development, and computer science. It introduces computing fundamentals and an appreciation of computational thinking. No previous programming experience is required. The course provides an introduction to the Python programming language including topics such as variables, types (Python types emphasized are: ints, floats, booleans, strings, lists, tuples, dictionaries, and files), functions, conditionals, repetition (loops), console and file input/output, reading from the web, and regular expressions. <br> <br>
+This is a first course in programming, software development, and computer science. It introduces computing fundamentals and an appreciation of computational thinking. No previous programming experience is required. The course provides an introduction to the Python programming language including topics such as variables, types (Python types emphasized are: ints, floats, booleans, strings, lists, tuples, dictionaries, and files), functions, conditionals, repetition (loops), console and file input/output, reading from the web, and regular expressions. 
 <!-- [Canvas](https://canvas.its.virginia.edu/courses/132421){: .btn .btn-purple } 
 [Gradescope](https://www.gradescope.com/courses/949628){: .btn .btn-purple } 
 [Piazza](https://piazza.com/class/m5su9x2rluy6ti){: .btn .btn-purple } -->
