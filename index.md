@@ -10,11 +10,7 @@ This is a first course in programming, software development, and computer scienc
 <!-- [Canvas](https://canvas.its.virginia.edu/courses/132421){: .btn .btn-purple } 
 [Gradescope](https://www.gradescope.com/courses/949628){: .btn .btn-purple } 
 [Piazza](https://piazza.com/class/m5su9x2rluy6ti){: .btn .btn-purple } -->
-
 ---
-
-
-
 <img src="/cs1112basit/Images/Nada_BASIT_Headshot.jpeg" style="width:25%" alt="Prof. Nada Basit">
 ### Instructor Information
 <b>Instructor:</b> Prof. Nada Basit <br>

@@ -4,8 +4,7 @@ layout: default
 nav_order: 2    
 ---
 
-### — Quote
-"The beginning is always today." - Mary Wollstonecraft
+[Full Syllabus](../../syllabus/syllabus.pdf)
 
 ### CS 1112 | Prof. N. Basit | Fall 2025
 
