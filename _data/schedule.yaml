@@ -34,10 +34,10 @@
   lectures: 
       - time: PDF
         link: ../lectures/day5.pdf
-      - time: ica A
-        link: ../ICA/DAY5/A/A_pseudocode_activity_ica.py
-      - time: ica B
-        link: ../ICA/DAY5/B/B_pseudocode_activity_ica.py
+      # - time: ica A
+      #   link: ../ICA/DAY5/A/A_pseudocode_activity_ica.py
+      # - time: ica B
+      #   link: ../ICA/DAY5/B/B_pseudocode_activity_ica.py
 - topic: Introduction to Turtles & Imports
   date: 9/8/2025
   lectures: 
