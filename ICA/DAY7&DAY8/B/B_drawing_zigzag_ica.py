@@ -1,0 +1,39 @@
+# *** THIS ICA IS FOR SECTION 002 CS 1112 2:00-3:15 **
+# *** IF YOU ARE NOT IN THIS CLASS MAKE SURE TO NAVIGATE TO THE CORRECT FILE ***
+
+# CS 1112
+# Learning Python (Python version: 3)
+# Module 1: Turtle with conditionals ACTIVITY
+
+### Create a turtle that draws a zig-zag line.
+### THE APPROACH WE WISH YOU TO TAKE IS AS FOLLOWS:
+###   - CREATE A FOR-LOOP THAT GOES THROUGH NUMBERS 1 THROUGH 10
+###   - IF THE CURRENT NUMBER IS EVEN, MOVE FORWARD 45 PIXELS
+###     AND PIVOT RIGHT BY 45 DEGREES
+###   - IF THE CURRENT NUMBER IS ODD, MOVE FORWARD 45 PIXELS
+###     AND PIVOT *LEFT* BY 45 DEGREES
+
+### FEEL FREE TO BE CREATIVE IN ANY OTHER WAY WITH RESPECT
+### TO COLORS AND PENWIDTH, ETC.
+
+### BE SURE TO CHECK-IN WITH A TA BEFORE YOU LEAVE CLASS TODAY.
+
+# WRITE YOUR PYTHON SOLUTION BELOW:
+
+import turtle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+turtle.done()  # End
+# Drawing onto the turtle canvas is complete, ready to close.

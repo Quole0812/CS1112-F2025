@@ -4,7 +4,7 @@ layout: default
 nav_order: 2    
 ---
 
-[Full Syllabus](../../syllabus/syllabus.pdf)
+[Full Syllabus](../CS1112-F2025/syllabus/syllabus.pdf)
 
 ### CS 1112 | Prof. N. Basit | Fall 2025
 
