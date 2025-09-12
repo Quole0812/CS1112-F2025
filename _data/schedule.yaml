@@ -43,6 +43,10 @@
   lectures: 
       - time: PDF
         link: ../lectures/day6.pdf
+      - time: ica A
+        link: ../ICA/DAY6/A/A_turtle_with_pseudocode_ica.py
+      - time: ica B
+        link: ../ICA/DAY6/B/B_turtle_with_pseudocode_ica.py
   readings:
       - topic: 5.3
   notes: Quiz 1 Due
@@ -52,6 +56,10 @@
   lectures: 
       - time: PDF
         link: ../lectures/day7.pdf
+      - time: ica A
+        link: ../ICA/DAY9/A/A_turtle_conditionals_ica.py
+      - time: ica B
+        link: ../ICA/DAY9/B/B_turtle_conditionals_ica.py
   notes: PA00 and Syllabus Quiz due
 
 - topic: Turtle Racing
